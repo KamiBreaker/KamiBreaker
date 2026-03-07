@@ -34,30 +34,7 @@
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-## 📌 Featured Projects
-
-### 📄 Docs Clone
-Functional clone of Google Docs designed to handle **real-time collaboration and concurrency**
-
-**Tech:** JavaScript
-
----
-
-### 🧠 Doc Tracer
-Semantic version control system with **natural language querying** for document changes
-
-**Tech:** Python, FastAPI, PostgreSQL
-
----
-
-### 🔐 API Auth
-RESTful authentication API supporting **secure backend authentication workflows**
-
-**Tech:** Node.js, Express, PostgreSQL
-
----
 
 ## 🌐 Connect With Me
 
